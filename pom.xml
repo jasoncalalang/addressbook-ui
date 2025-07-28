@@ -117,6 +117,9 @@
           <httpConnector>
             <port>8080</port>
           </httpConnector>
+          <scanIntervalSeconds>1</scanIntervalSeconds>
+          <stopKey>STOP</stopKey>
+          <stopPort>9999</stopPort>
         </configuration>
       </plugin>
     </plugins>

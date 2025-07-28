@@ -1,3 +1,4 @@
 com/ibm/test/addressbook/service/AddressBookService.class
-com/ibm/test/addressbook/controller/AddressBookController.class
 com/ibm/test/addressbook/model/AddressBook.class
+com/ibm/test/addressbook/controller/TestBean.class
+com/ibm/test/addressbook/controller/AddressBookController.class
